@@ -1,4 +1,4 @@
-const nestObj = (obj,attr) => {
+const nestObj = function(obj,attr){
     
     if(typeof(obj) != 'undefined' && typeof(attr) != 'undefined' ){
         attr = attr.replace(/\[(\w+)\]/g, '.$1'); 

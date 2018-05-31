@@ -1,6 +1,6 @@
 {
   "name": "tj-nested-obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helper function for access nested object",
   "main": "index.js",
   "scripts": {

@@ -25,4 +25,4 @@ const nestObj = function(obj,attr){
     return undefined;
 }
 
-export default nestObj;
+module.exports = nestObj;
